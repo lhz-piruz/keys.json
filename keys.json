@@ -1,4 +1,5 @@
-
-KEY-EMIR-LC5S (1 horas)
-KEY-EMIR-KWF7 (1 minutos)
-KEY-EMIR-3Y3Y (1 meses)
+[
+  { "key": "KEY-EMIR-LC5S" },
+  { "key": "KEY-EMIR-KWF7" },
+  { "key": "KEY-EMIR-3Y3Y" }
+]
